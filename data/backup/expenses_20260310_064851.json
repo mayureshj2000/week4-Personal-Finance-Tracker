@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2026-03-10",
+    "amount": 500.0,
+    "category": "Food",
+    "description": "Pizza"
+  },
+  {
+    "date": "2026-03-10",
+    "amount": 300.0,
+    "category": "Transport",
+    "description": "Cab"
+  }
+]

@@ -1,4 +1,5 @@
 ###Personal Finance Tracker
+
 ##Project Description
 A comprehensive personal finance tracking application that helps users manage their expenses, categorize spending, and generate insightful reports. Data is persisted to JSON with backups and can be exported to CSV for external analysis.
 
